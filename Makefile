@@ -1,0 +1,1 @@
+LDFLAGS = -lglfw -lGL -lGLEW
